@@ -1,1 +1,1 @@
-# Follow to https://flexwappa.github.io/home
+# Follow to https://flexwappa.github.io/starwars/
