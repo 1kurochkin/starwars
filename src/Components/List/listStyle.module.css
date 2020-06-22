@@ -1,0 +1,63 @@
+/*------------LOGO--------------*/
+ul {
+    list-style: none;
+}
+
+/*------------LOGO--------------*/
+
+
+.filmsPage {
+    font-size: 21px;
+}
+
+
+.colorOrange {
+    color: #E3A730;
+}
+
+.filmCard {
+    text-align: left;
+    font-size: 20px;
+    margin: 0 2em;
+}
+
+.filmCard {
+    width: 50%;
+    text-align: left;
+    font-size: 20px;
+    margin: 0 2em;
+}
+
+.filmCard li {
+    margin-bottom: 0.5em;
+}
+
+
+.characters {
+    font-size: 17px;
+    text-align: center;
+    list-style: none;
+    padding: 0;
+    text-decoration: none;
+    width: 55%;
+}
+
+.characterCard {
+    font-size: 41px;
+    text-align: left;
+    list-style: none;
+    padding: 0;
+    margin-left: 1em;
+    text-decoration: none;
+}
+
+.planetCard {
+    font-size: 25px;
+}
+
+.planetsPage {
+    text-align: center;
+    list-style: none;
+    padding: 0;
+    text-decoration: none;
+}

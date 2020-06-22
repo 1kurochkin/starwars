@@ -1,0 +1,33 @@
+.titleSmall {
+    font-size: 18px;
+}
+
+.titleMedium {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.titleBig {
+    font-size: 38px;
+    margin-bottom: 20px;
+}
+
+.colorOrange {
+    color: #E3A730;
+}
+
+.colorWhite {
+    color: white;
+}
+
+.mb-small {
+    margin-bottom: 10px;
+}
+
+.mb-medium {
+    margin-bottom: 15px;
+}
+
+.mb-big {
+    margin-bottom: 15px;
+}
