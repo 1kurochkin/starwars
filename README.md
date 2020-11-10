@@ -1,1 +1,1 @@
-# Follow to https://flexwappa.github.io/ads-board/
+# Follow to https://flexwappa.github.io/starwars/
